@@ -61,7 +61,7 @@ To run the Python scripts and SQL analysis locally, ensure you have the followin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Supply-Chain-Analytics-Dashboard.git
+   git clone https://github.com/ChiragAvasthi/SupplyChain-Analytics.git
    cd Supply-Chain-Analytics-Dashboard
    ```
 
